@@ -1,0 +1,4 @@
+When Key size is 128 bits, delay is 2.09715 seconds
+When Key size is 256 bits, delay is 4.1943 seconds
+When Key size is 512 bits, delay is 8.38861 seconds
+When Key size is 1024 bits, delay is 16.7772 seconds

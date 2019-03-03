@@ -1,0 +1,5 @@
+Keyword used is GYBNQKURP
+Keyword_matrix is as follows :
+  6  24  1
+ 13 16  10
+ 20 17  15
